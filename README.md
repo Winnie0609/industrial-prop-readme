@@ -32,7 +32,7 @@
 ### User site
 
 <div align="center">
-  <img src="public/landy-ai.png" alt="Landy AI conversational search" width="520"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="public/landy-ai.png" alt="Landy AI conversational search" width="600"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 - **Search & browse**: filter by category, offer type (sale/rent), location, price and size; semantic free-text query; sorting and pagination.
@@ -45,7 +45,7 @@
 ### Admin dashboard (`/admin`)
 
 <div align="center">
-  <img src="public/admin-dashboard-listing.png" alt="Admin dashboard: listings management" width="900"/>
+  <img src="public/admin-dashboard-listing.png" alt="Admin dashboard: listings management" width="600"/>
 </div>
 
 - **Auth**: cookie-based token login, protected routes.
