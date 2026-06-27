@@ -1,10 +1,15 @@
 <div align="center">
   <img src="public/logo.png" alt="IndustrialProp" width="200"/>
+  <br/>
+  <br/>
   <p>
     AI-powered platform for discovering industrial property across Malaysia's Klang Valley.</br>
     Warehouses, factories, industrial land: search with filters or natural language, then connect with agents in one place.
   </p>
 </div>
+
+<br/>
+<br/>
 
 <img width="1351" height="558" alt="IndustrialProp landing page" src="public/landing.png" />
 
@@ -55,9 +60,6 @@
 - **Leads**: table of incoming enquiries.
 - **Conversations**: logs of Landy AI chat sessions.
 - **Settings**: admin profile management.
-
-</br>
-</br>
 
 ## Tech Stack
 
